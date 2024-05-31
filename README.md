@@ -1,4 +1,4 @@
-This is a basic JSON file
+This is a basic JSON file (This File is in Pubic Directory)
 ![image](https://github.com/FirasMir/cpit405-completedproject/assets/117066902/26512f4f-bc71-449c-b4ef-4b30ffb6602c)
 
 Home Page showing the retrieving products data from JSON Also can edit the product or delete it
