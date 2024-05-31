@@ -1,0 +1,60 @@
+{
+    "AppleProducts2023": {
+      "iPhone": [
+        {
+          "model": "iPhone 15",
+          "capacities": [
+            {"storage": "128GB", "price": 799},
+            {"storage": "256GB", "price": 899},
+            {"storage": "512GB", "price": 1099}
+          ]
+        },
+        {
+          "model": "iPhone 15 Pro",
+          "capacities": [
+            {"storage": "128GB", "price": 999},
+            {"storage": "256GB", "price": 1099},
+            {"storage": "512GB", "price": 1299},
+            {"storage": "1TB", "price": 1499}
+          ]
+        }
+      ],
+      "iPad": [
+        {
+          "model": "iPad Air",
+          "capacities": [
+            {"storage": "64GB", "price": 599},
+            {"storage": "256GB", "price": 749}
+          ]
+        },
+        {
+          "model": "iPad Pro 11-inch",
+          "capacities": [
+            {"storage": "128GB", "price": 799},
+            {"storage": "256GB", "price": 899},
+            {"storage": "512GB", "price": 1099},
+            {"storage": "1TB", "price": 1299},
+            {"storage": "2TB", "price": 1499}
+          ]
+        }
+      ],
+      "MacBook": [
+        {
+          "model": "MacBook Air M2",
+          "capacities": [
+            {"storage": "256GB", "price": 1199},
+            {"storage": "512GB", "price": 1399}
+          ]
+        },
+        {
+          "model": "MacBook Pro 14-inch",
+          "capacities": [
+            {"storage": "512GB", "price": 1999},
+            {"storage": "1TB", "price": 2399},
+            {"storage": "2TB", "price": 2799}
+          ]
+        }
+      ]
+    }
+  }
+  
